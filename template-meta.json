@@ -5,5 +5,6 @@
   "category": "AI/ML",
   "image": "https://raw.githubusercontent.com/nomideusz/moli-railway/main/icon.png",
   "card_desc": "Moli: an open-source headless browser built for AI agents. Connect Playwright, Puppeteer, Selenium or browser-use over CDP or WebDriver, behind a token gate, from a container that idles at a few dozen MB.",
-  "deploy_marker": "moli serve"
+  "deploy_marker": "moli serve",
+  "id": "d41869e2-ae67-4264-8cb8-f04b4333904f"
 }
