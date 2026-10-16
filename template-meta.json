@@ -1,0 +1,9 @@
+{
+  "name": "Moli | Headless Browser for AI Agents (CDP, WebDriver, Playwright)",
+  "short_name": "Moli",
+  "description": "Rust headless browser for AI agents: CDP, WebDriver, Playwright, ~30 MB",
+  "category": "AI/ML",
+  "image": "https://raw.githubusercontent.com/nomideusz/moli-railway/main/icon.png",
+  "card_desc": "Moli: an open-source headless browser built for AI agents. Connect Playwright, Puppeteer, Selenium or browser-use over CDP or WebDriver, behind a token gate, from a container that idles at a few dozen MB.",
+  "deploy_marker": "moli serve"
+}
