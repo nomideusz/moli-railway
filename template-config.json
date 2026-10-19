@@ -2,7 +2,7 @@
  "buckets": {},
  "services": {
   "523ae091-91ac-481d-86c9-cb5064a769b7": {
-   "icon": "https://raw.githubusercontent.com/nomideusz/moli-railway/main/icon.png",
+   "icon": "https://raw.githubusercontent.com/two-workspaces/moli/main/icon.png",
    "name": "moli",
    "build": {
     "dockerfilePath": "Dockerfile"
@@ -14,7 +14,7 @@
     "restartPolicyMaxRetries": 10
    },
    "source": {
-    "repo": "https://github.com/nomideusz/moli-railway",
+    "repo": "https://github.com/two-workspaces/moli",
     "rootDirectory": null
    },
    "variables": {

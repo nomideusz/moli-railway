@@ -28,7 +28,7 @@ It's one service and needs no database or volume. Moli runs `moli serve` on loca
 ### Deployment Dependencies
 
 - [Moli on GitHub](https://github.com/lexmount/moli)
-- [Template source on GitHub](https://github.com/nomideusz/moli-railway)
+- [Template source on GitHub](https://github.com/two-workspaces/moli)
 
 ### Implementation Details
 
