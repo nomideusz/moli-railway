@@ -1,6 +1,7 @@
 FROM caddy:2.10.2 AS caddy
 
 FROM debian:trixie-slim
+# upgrade: github lexmount/moli
 ARG MOLI_VERSION=v1.1.17
 RUN apt-get update && apt-get install -y --no-install-recommends ca-certificates curl libfontconfig1 fonts-dejavu-core fonts-liberation fonts-noto-cjk \
  && curl -fsSL https://github.com/lexmount/moli/releases/download/${MOLI_VERSION}/moli-x86_64-unknown-linux-gnu.tar.gz | tar xz -C /tmp \
